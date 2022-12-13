@@ -4,7 +4,7 @@ info:
     version : 0.1.9
 
 paths:
-    /super_secret/shrek/UwU:
+    /super_secret/shrek/UwU.php:
         get:
             summary : returns a list of data you can't see
             responses :
